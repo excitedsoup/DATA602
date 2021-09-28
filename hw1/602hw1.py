@@ -14,7 +14,7 @@
 
 
 import pandas as pd
-housing = pd.read_csv('C:/Users/Peter/Desktop/homework/DATA602/housing_processed.csv')
+housing = pd.read_csv('data/housing_processed.csv')
 housing.head()
 
 
